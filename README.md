@@ -1,4 +1,3 @@
-## Hi there 👋
 
 - 👋 Hi, I’m @siam397
 - 👀 I’m interested in project structure, database, system design, systems programming, de-fi, human psychology, history
